@@ -29,7 +29,7 @@ public class hashAndHashset {
         names.clear();
         System.out.println(names);
         System.out.println(names.contains("Kamil"));
- */
+ *///s
 
         List<Integer> numberList= new ArrayList<>();
         numberList.add(1);
