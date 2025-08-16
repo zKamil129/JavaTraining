@@ -11,7 +11,7 @@ public class Dog {
     public Dog(String name){
         this.name = name;
     }
-
+//s
     public Dog(int age){
         this.age = age;
     }
